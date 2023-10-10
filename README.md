@@ -1,7 +1,7 @@
 ## Welcome to Marco Sepe's GitHub page! 🔥
 
 
-[(hhttps://www.linkedin.com/in/marcosepeweb/)
+https://www.linkedin.com/in/marcosepeweb/
 
 
 ## Projects
