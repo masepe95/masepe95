@@ -1,16 +1,28 @@
-🙋🏻‍♂️ Hey! My name is Marco!
+## Welcome to Marco Sepe's GitHub page! 🔥
 
-✈️ I’ve always been passionate about learning and embracing diversity. 
-After completing high school, I made the bold decision to move in the United States. This experience taught me how to adapt to a multicultural environment, fostering resilience and an open-minded outlook. 
 
-👔 After two years, I moved back in my hometown, starting my own entrepreneurial project.
-I believe that diversity fuels innovation, and I'm excited to bring my unique perspective to any team or organization. 
+[![Linkedin: Marco Sepe](https://img.shields.io/badge/-DeveloperWay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosepeweb/)](hhttps://www.linkedin.com/in/marcosepeweb/)
 
-👨🏻‍💻 During my childhood, I always had a huge passion for technology; I remember myself during teenage years building websites with CMS, so I decided to give life to that passion by giving continuity to my studies in web developing with Boolean. I found front end developing very inspiring! I’m ready to embrace this new career willing to learn everyday something new, and contribute to success of my next team.
 
-🌎 I am actively seeking opportunities to connect with experienced professionals, mentors, and potential employers who share my passion for web development. I would greatly appreciate the opportunity to connect with you and learn from your experiences in this exciting industry.
+## Projects
 
-🗣️ If you have any insights, advice, or opportunities that you think would be valuable for someone like me who is starting their journey in web development, I would be thrilled to hear from you. Let's connect and explore the possibilities of working together or simply sharing our knowledge and experiences.
+Find some projects developed and handcrafted by me!
+
+### 🌎 BOOLBNB   [📄 Repo](<!--https://github.com/AndreaRomano02/boolbnb-front-6-->)
+Final project for Boolean's Full Stack Web Developer course. Contributed to FE side with my team (credits!). An 'AirBnb' inspired web app.
+
+- FE Website: Vue.Js
+- BE : Laravel-PHP
+- APIs : axios
+
+### 🍴 Projects Controller [💻Full Stack Repo ](<!-- https://github.com/masepe95/laravel-api-->)
+A web app where you can add, show, update, and delete projects. 
+
+#### Tech stack:
+- FE Website:Vue.Js
+- BE : Laravel-PHP
+- Authentication: Laravel Breeze
+
 
 <!---
 masepe95/masepe95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
