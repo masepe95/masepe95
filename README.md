@@ -1,7 +1,7 @@
 ## Welcome to Marco Sepe's GitHub page! 🔥
 
 
-[![Linkedin: Marco Sepe](https://img.shields.io/badge/-Marco_Sepe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcosepeweb/)](hhttps://www.linkedin.com/in/marcosepeweb/)
+[![Linkedin: Marco Sepe](hhttps://www.linkedin.com/in/marcosepeweb/)
 
 
 ## Projects
